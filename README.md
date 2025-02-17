@@ -72,6 +72,8 @@ Github: https://github.com/Hassaan1019
 Project: https://github.com/Hassaan1019/Final_Project
 Vercel: https://final-prject-hassaan.vercel.app/
 
+# faraz
+https://github.com/farazgill5674/faraz
 # Sara Ayub
 final project: https://github.com/thesaraayub/final-project---e-commerce-wesite
 
